@@ -66,3 +66,29 @@ ScrollSmoother.create({
   smooth: 1.5,
   effects: true
 })
+
+let progress = 0;
+
+const counter = document.querySelector(".counter");
+const bar = document.querySelector(".progress");
+
+const interval = setInterval(() => {
+
+  progress++;
+
+  counter.innerText = progress + "%";
+  bar.style.width = progress + "%";
+
+  if(progress >= 100){
+
+    clearInterval(interval);
+
+    gsap.to(".preloader",{
+      y:"-100%",
+      duration:1.2,
+      ease:"power4.inOut"
+    });
+
+  }
+
+}, 25);
