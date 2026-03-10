@@ -59,3 +59,10 @@ navLinks.forEach((link) => {
     }
   });
 });
+
+gsap.registerPlugin(ScrollSmoother);
+
+ScrollSmoother.create({
+  smooth: 1.5,
+  effects: true
+})
