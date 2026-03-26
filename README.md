@@ -1,32 +1,86 @@
+# 💼 Portfolio 1.0
 
-Repositório de portfólio com projetos voltados ao **desenvolvimento front-end** e **fundamentos de programação**, aplicando boas práticas, organização de código e conceitos de UI/UX.
-
-## Tecnologias
-- HTML5 (estrutura semântica, acessibilidade)
-- CSS3 (layouts responsivos, Flexbox, Grid, animações)
-- JavaScript (interatividade, manipulação do DOM, lógica)
-- Linguagem C (lógica de programação, estruturas de dados)
-- Figma (prototipação, design de interfaces, UI/UX)
-
-## Competências Desenvolvidas
-- Desenvolvimento de interfaces responsivas
-- Estilização avançada com CSS
-- Implementação de interatividade com JavaScript
-- Tradução de protótipos do Figma para código
-- Fundamentos sólidos de lógica de programação
-- Organização e versionamento de código com Git/GitHub
-
-## Projetos
-Projetos práticos desenvolvidos para:
-- Consolidação de conceitos de front-end
-- Aplicação de boas práticas de HTML, CSS e JavaScript
-- Construção e evolução de portfólio profissional
-
-## Objetivo Profissional
-Atuar como desenvolvedor front-end em estágio ou posição júnior, aplicando conhecimentos técnicos, aprendendo continuamente e contribuindo para projetos reais.
-
-## Observações
-Portfólio em constante atualização, acompanhando a evolução acadêmica em Análise e Desenvolvimento de Sistemas e estudos independentes.
+> Meu primeiro portfólio como desenvolvedor front-end.
 
 ---
+
+## 🚀 Sobre o projeto
+
+Este projeto representa o início da minha jornada no desenvolvimento front-end.
+A proposta foi criar um portfólio simples, organizado e funcional, aplicando os primeiros conceitos aprendidos.
+
+---
+
+## 🎯 Objetivo
+
+* Praticar HTML, CSS e JavaScript
+* Entender estrutura de um projeto real
+* Criar minha primeira apresentação como desenvolvedor
+
+---
+
+## 🛠️ Tecnologias utilizadas
+
+* HTML5
+* CSS3
+* JavaScript
+* Gsap (mais básico)
+  
+---
+
+## 🧠 O que aprendi
+
+* Estruturação básica com HTML
+* Estilização com CSS
+* Noções de responsividade
+* Organização de arquivos
+* Boas práticas iniciais
+* Introdução a Gsap
+  
+---
+
+## 🖥️ Preview
+
+<img src="./assets/img/preview.png" alt="Preview do projeto" />
+
+---
+
+## 📂 Estrutura do projeto
+
+```id="k29dsa"
+Portfolio1.0/
+│
+├── assets/
+│   ├── img/
+│   └── icons/
+│
+├── css/
+│   └── style.css
+│
+├── js/
+│   └── script.js
+│
+├── index.html
+└── README.md
+```
+
+---
+
+## 🔗 Acesse o projeto
+
+👉 https://github.com/joaoviitordev/Portfolio1.0
+
+---
+
+## 👨‍💻 Autor
+
 João Vitor
+
+---
+
+## ⭐ Observação
+
+Este é meu primeiro projeto, então ainda está em evolução.
+Novas versões virão com melhorias conforme avanço nos estudos.
+
+---
